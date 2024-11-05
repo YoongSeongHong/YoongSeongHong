@@ -3,7 +3,12 @@
 
   # 👋 Welcome to My Profile 👋
 
-
+<br>
+ 
+  ## 👀 Interests 👀
+  
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1769ff?style=flat-square&logo=openai&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square&logo=ai&logoColor=white)
 
 <br><br>
 
@@ -14,8 +19,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoongSeongHong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
----
-
 
 
 <table>
@@ -24,16 +27,11 @@
       <h2>💪 Skills 💪</h2>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> 
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-        <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logoColor=white" alt="Seaborn" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
         <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       </p>
