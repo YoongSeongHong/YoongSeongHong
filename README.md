@@ -3,9 +3,7 @@
 
   # 👋 Welcome to My Profile 👋
 
-  ## 📄 CV / Resume 📄
 
-You can view my CV [here](https://github.com/YoongSeongHong/CV/blob/main/cv.pdf)
 
 <br><br>
 
@@ -52,6 +50,13 @@ You can view my CV [here](https://github.com/YoongSeongHong/CV/blob/main/cv.pdf)
 </table>
 
 ---
+
+
+## 📄 CV / Resume 📄
+
+You can view my CV [here](https://github.com/YoongSeongHong/CV/blob/main/cv.pdf)
+
+<br>
 
 ## ✏️ Logs ✏️
 
