@@ -59,7 +59,7 @@
 
 ## 📄 CV / Resume 📄
 
-You can view my CV [here](https://github.com/YoongSeongHong/CV/blob/main/cv_20241119.pdf)
+You can view my CV [here](https://github.com/YoongSeongHong/CV/blob/main/cv_20250116.pdf)
 
 <br>
 
